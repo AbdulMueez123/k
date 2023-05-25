@@ -1,0 +1,14 @@
+body{
+    background-position: center;
+    background-size: cover ;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+}
+a{
+    font-size: 20px  !important;
+    width:200px;
+    border-radius: 30px !important;
+    background-color: aliceblue;
+    color: aqua;
+}
